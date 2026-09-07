@@ -93,12 +93,12 @@ Before running the notebook, check that the image directory defined near the beg
 The images are located inthe `RawImages' folder and contains 6 raw images which are the 'light' reference images taken during absorption imaging. These are the same images used in Fig.2.
 The images are stored in order:
 
-`img00001_X2:` Fully coherent, standard absorption imaging
-`img00002_X2:` Partially coherent, F-lens = 55 mm (partial 1)
-`img00003_X2:` Partially coherent, F-lens = 63 mm (partial 2)
-`img00004_X2:` Partially coherent, F-lens = 73 mm (partial 3)
-`img00005_X2:` Incoherent, No F-lens
-`img00006_X2:` Static image of the diffuser
+- `img00001_X2:` Fully coherent, standard absorption imaging
+- `img00002_X2:` Partially coherent, F-lens = 55 mm (partial 1)
+- `img00003_X2:` Partially coherent, F-lens = 63 mm (partial 2)
+- `img00004_X2:` Partially coherent, F-lens = 73 mm (partial 3)
+- `img00005_X2:` Incoherent, No F-lens
+- `img00006_X2:` Static image of the diffuser
 
 
 
